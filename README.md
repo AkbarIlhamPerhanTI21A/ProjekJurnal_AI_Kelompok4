@@ -1,1 +1,1 @@
-# ProjekJurnal_AI_Kelompok4
+# ProjekJurnalUAS_AI_Kelompok4
